@@ -95,3 +95,33 @@ body.dark-mode .dark-mode-toggle {
   background-color: #334CFF;
   color: #F7F7F5;
 }
+
+
+/* Full dark mode extensions */
+body.dark-mode main.content {
+  background-color: #1D1D1A;
+  color: #F7F7F5;
+}
+
+body.dark-mode section {
+  background-color: #1D1D1A;
+  color: #F7F7F5;
+}
+
+body.dark-mode .carousel img {
+  border: 2px solid #C5A46C;
+}
+
+body.dark-mode ul li,
+body.dark-mode p {
+  color: #F7F7F5;
+}
+
+body.dark-mode iframe {
+  border: 2px solid #C5A46C;
+  background-color: #000;
+}
+
+body.dark-mode a {
+  color: #A4A9F5;
+}
