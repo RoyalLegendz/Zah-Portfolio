@@ -1,14 +1,14 @@
 
 # Zahmir King Cooper | Athlete Portfolio
 
-This is the official web portfolio for Zahmir King Cooper — also known as **King Zah** — a multi-sport athlete, creator, and student-leader.
+This is the official web portfolio for Zahmir King Cooper — also known as **King Zah** — a multi-sport athlete, creator, entrepreneur, and student-leader.
 
 ## 🔥 About the Site
 
 This site is designed to highlight Zahmir’s talents and interests across a range of fields:
 - **Basketball, Football, Soccer**
 - **Academics & Leadership**
-- **Music & Entrepreneurship**
+- **The Arts & Entrepreneurship**
 - **Community Service & Future Initiatives**
 
 Built with a custom HTML/CSS layout, the site follows the **Royal Legendz** brand aesthetic, including a gold crown logo, dark backgrounds, and electric blue callouts.
@@ -37,7 +37,7 @@ To deploy this site:
 ├── index.html                # Homepage
 ├── just-zah.html             # Personal story & bio
 ├── basketball.html           # Sports highlight pages
-├── music.html
+├── arts.html
 ├── academics.html
 ├── entrepreneurship.html
 ├── community.html
