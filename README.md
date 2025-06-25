@@ -37,7 +37,7 @@ To deploy this site:
 ├── index.html                # Homepage
 ├── just-zah.html             # Personal story & bio
 ├── basketball.html           # Sports highlight pages
-├── arts.html
+├── music.html
 ├── academics.html
 ├── entrepreneurship.html
 ├── community.html
