@@ -1,0 +1,97 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #F7F7F5;
+  color: #1D1D1A;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #333432;
+  color: #F7F7F5;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 12px;
+}
+
+.nav a {
+  color: #F7F7F5;
+  margin-left: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main.content {
+  padding: 2rem;
+  background-color: #F7F7F5;
+  color: #1D1D1A;
+}
+
+.footer {
+  background-color: #333432;
+  color: #F7F7F5;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1, h2, h3 {
+  color: #334CFF;
+}
+
+.cta-button, .dark-mode-toggle {
+  background-color: #D8FF00;
+  color: #1D1D1A;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 1rem auto;
+  overflow: hidden;
+}
+
+.carousel img {
+  width: 100%;
+  display: none;
+  border-radius: 6px;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #1D1D1A;
+  color: #F7F7F5;
+}
+
+body.dark-mode .header,
+body.dark-mode .footer {
+  background-color: #000;
+}
+
+body.dark-mode .nav a {
+  color: #A4A9F5;
+}
+
+body.dark-mode .cta-button,
+body.dark-mode .dark-mode-toggle {
+  background-color: #334CFF;
+  color: #F7F7F5;
+}
